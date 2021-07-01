@@ -16,7 +16,7 @@ export default function CallToAction() {
           </Heading>
           <Box sx={styles.btnWrapper}>
             <Button variant="whiteButton" aria-label="Contact Us">
-              Join Femesta! Now 
+              Join Femble! Now 
             </Button>
           </Box>
         </Box>

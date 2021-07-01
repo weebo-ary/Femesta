@@ -21,7 +21,7 @@ export default function Footer() {
               <Link path="/" label="Privacy" />
             </nav>
             <Text as="p" sx={styles.copyrightArea.copyright}>
-              Copyright by 2021 Femesta, Inc
+              Copyright by 2021 Femble, Inc
             </Text>
           </Box>
           <Flex sx={styles.footer.menuArea}>
