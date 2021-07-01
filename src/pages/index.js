@@ -17,7 +17,7 @@ export default function IndexPage() {
       <Layout>
         <SEO
           description="The multichannel engagement platform which allows the women entrepreneur to get an instant personal Mentorship "
-          title="Femesta - For Women Entrepreneurship"
+          title="Femble - For Women Entrepreneurship"
         />
         <Banner />
         <Feature />
