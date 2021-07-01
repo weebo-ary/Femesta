@@ -12,7 +12,7 @@ export default function Support() {
       <Container>
         <SectionHeader
           title="Meet our support team who always work hardly behind the scenes"
-          description="We are working Day and Night, So stay calm and start your journey with Femesta for being best in your field."
+          description="We are working Day and Night, So stay calm and start your journey with Femble for being best in your field."
         />
 
         <Box sx={styles.thumbWrapper}>
